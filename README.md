@@ -79,37 +79,6 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 Dashboard em Power BI</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=flat-square&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-      <p>Projeto voltado para visualização de dados, análise de indicadores e relatórios interativos.</p>
-      <p align="center">
-        <a href="https://github.com/Lorrayneegoncalves?tab=repositories"><b>📂 Ver Repositórios »</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Agente Virtual & Automação</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Copilot_Studio-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=flat-square&logo=power-automate&logoColor=white"/>
-      </p>
-      <p>Desenvolvimento de agentes conversacionais no Copilot Studio integrados a fluxos de automação.</p>
-      <p align="center">
-        <a href="https://github.com/Lorrayneegoncalves?tab=repositories"><b>📂 Ver Repositórios »</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📬 Contato & Redes Sociais
 
 <div align="center">
