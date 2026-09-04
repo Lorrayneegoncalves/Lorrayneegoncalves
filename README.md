@@ -1,28 +1,150 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f0ff&height=220&section=header&text=LORRAYNE%20GON%C3%87ALVES&fontSize=40&fontColor=00f0ff&animation=twinkle&fontAlignY=38&desc=SYSTEM%20ONLINE%20%7C%20DATA%20%26%20AUTOMATION%20LEARNER&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
+<!-- BANNER PRINCIPAL -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f0ff&height=200&section=header&text=LORRAYNE%20GONCALVES&fontSize=38&fontColor=00f0ff&animation=twinkle&fontAlignY=38&desc=AN%C3%81LISE%20DE%20DADOS%20%7C%20AUTOMA%C3%87%C3%83O%20DE%20PROCESSOS&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
 
-<!-- TYPING ANIMATION -->
+<!-- DIGITAÇÃO AUTOMÁTICA -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&height=50&lines=%3E_Initializing+JARVIS+Data+Core...;%3E_Developing+in+Data+Analysis+%26+Power+BI;%3E_Exploring+Power+Platform+%26+Process+Automation;%3E_Practicing+Python+%26+SQL;%3E_Learning+Artificial+Intelligence+%26+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=50&lines=Desenvolvendo+em+An%C3%A1lise+de+Dados;Automa%C3%A7%C3%A3o+de+Processos+com+Power+Platform;Power+BI%2C+Python+e+SQL;Estudando+Intelig%C3%AAncia+Artificial+%26+Software" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System_Status-ONLINE-00FF66?style=for-the-badge&logo=opsgenie&logoColor=black" />
-  <img src="https://img.shields.io/badge/Security_Clearance-LEVEL_5-00F0FF?style=for-the-badge&logo=shield&logoColor=black" />
-  <img src="https://img.shields.io/badge/Core-DATA_%26_AUTOMATION-7000FF?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foco-An%C3%A1lise_de_Dados-00F0FF?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Foco-Automa%C3%A7%C3%A3o_de_Processos-7000FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aprendizado-Intelig%C3%AAncia_Artificial-00FF66?style=for-the-badge&logo=openai&logoColor=black" />
 </p>
 
 </div>
 
-<hr style="border: 1px solid #00F0FF;" />
+---
 
-## ⚡ // SYSTEM_OVERVIEW :: SOBRE MIM
+## 📌 Sobre Mim
 
-```gcode
-[IDENTITY]      : Lorrayne Gonçalves
-[ROLE]          : Analista de Dados
-[LOCATION]      : Brasil 🇧🇷
-[FOCUS_AREAS]   : Análise de Dados | Automação de Processos | IA
-[CURRENT_STATUS]: Desenvolvendo habilidades em IA, Python & Engenharia de Software
+> 👋 **Olá! Sou a Lorrayne Gonçalves.** 
+> 
+> Sou graduada em **Análise e Desenvolvimento de Sistemas**, pós-graduada em **Ciência de Dados & Big Data Analytics** e atualmente graduanda em **Engenharia de Software**.
+> 
+> Busco me desenvolver continuamente nas áreas de **Análise de Dados**, **Automação de Processos** e **Inteligência Artificial**. Tenho praticado e construído soluções com **Power BI**, **Power Platform (Power Automate & Power Apps)**, **Python** e **SQL**.
+
+---
+
+## 🎓 Formação Acadêmica
+
+* 🎓 **Pós-Graduação:** Ciência de Dados e Big Data Analytics
+* 💻 **Graduação:** Análise e Desenvolvimento de Sistemas
+* 🚀 **Graduação (Em Andamento):** Engenharia de Software
+
+---
+
+## 🛠️ Tecnologias & Habilidades
+
+<div align="center">
+
+### 📊 Análise de Dados & BI
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
+
+### ⚡ Automação & Low-Code
+[![Power Automate](https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=power-automate&logoColor=white)](https://powerautomate.microsoft.com/)
+[![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=power-apps&logoColor=white)](https://powerapps.microsoft.com/)
+[![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white)](https://powerplatform.microsoft.com/)
+
+### 🤖 Inteligência Artificial (Em Aprendizado)
+[![AI / Machine Learning](https://img.shields.io/badge/IA_&_Aprendizado-7000FF?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+
+</div>
+
+---
+
+## 🧰 Ferramentas & Ambiente
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,py,postgres,git,github,azure&theme=dark" alt="Ferramentas" />
+</p>
+
+---
+
+## 🎯 Objetivos em Aprendizado
+
+* 📈 **Power BI:** Aprofundamento em modelagem de dados e fórmulas DAX.
+* 🐍 **Python:** Prática na criação de scripts para automação (ETL) e manipulação de dados.
+* ⚡ **Power Platform:** Desenvolvimento de fluxos integrados no Power Automate e aplicativos no Power Apps.
+* 🤖 **Inteligência Artificial:** Estudo dos conceitos fundamentais e aplicações práticas de IA no dia a dia.
+
+---
+
+## 🚀 Projetos em Destaque
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Dashboard em Power BI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=flat-square&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <p>Projeto voltado para visualização de dados, análise de indicadores e relatórios interativos.</p>
+      <p align="center">
+        <a href="#"><b>📂 Ver Repositório »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Automação de Processos</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=flat-square&logo=power-automate&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+      <p>Fluxo desenvolvido para automatizar rotinas, tratamento de arquivos e envio de relatórios.</p>
+      <p align="center">
+        <a href="#"><b>📂 Ver Repositório »</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lorrayneegoncalves&theme=darkhub&row=1&column=6&margin-w=15&background=0d1117&border=00f0ff" alt="Conquistas" />
+
+<br/><br/>
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Lorrayneegoncalves&show_icons=true&theme=dark&hide_border=false&border_color=00f0ff&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9" alt="Estatísticas do GitHub" height="165"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorrayneegoncalves&layout=compact&theme=dark&hide_border=false&border_color=00f0ff&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" alt="Linguagens Mais Usadas" height="165"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lorrayneegoncalves&theme=dark&background=0D1117&border=00F0FF&stroke=00F0FF&alarm=00F0FF&fire=00F0FF&ring=00F0FF&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=00F0FF" alt="Sequência de Contribuições" width="90%"/>
+
+<br/><br/>
+
+### 🐍 Animação de Contribuições
+<img src="https://raw.githubusercontent.com/Lorrayneegoncalves/Lorrayneegoncalves/output/github-contribution-grid-snake.svg" alt="Jogo da Cobrinha" width="100%" />
+
+</div>
+
+---
+
+## 📬 Contato & Redes Sociais
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin-aqui)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lorrayneegoncalves)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@dominio.com)
+
+</div>
