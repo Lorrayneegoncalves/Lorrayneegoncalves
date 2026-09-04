@@ -24,7 +24,7 @@
 > 
 > Sou graduada em **Análise e Desenvolvimento de Sistemas**, pós-graduada em **Ciência de Dados & Big Data Analytics** e atualmente cursando **Engenharia de Software**.
 > 
-> Busco me desenvolver continuamente nas áreas de **Análise de Dados**, **Automação de Processos** e **Inteligência Artificial**. Já desenvolvo projetos e práticas com **Power BI**, **Power Platform (Power Automate & Power Apps)**, **Python**, **SQL** e criação de **agentes inteligentes no Copilot Studio**.
+> Busco me desenvolver continuamente nas áreas de **Análise de Dados**, **Automação de Processos** e **Inteligência Artificial**. Desenvolvo projetos e práticas com **Power BI**, **Power Platform (Power Automate & Power Apps)**, **Python**, **SQL** e criação de **agentes inteligentes no Copilot Studio**.
 
 ---
 
@@ -91,7 +91,7 @@
       </p>
       <p>Projeto voltado para visualização de dados, análise de indicadores e relatórios interativos.</p>
       <p align="center">
-        <a href="#"><b>📂 Ver Repositório »</b></a>
+        <a href="https://github.com/Lorrayneegoncalves?tab=repositories"><b>📂 Ver Repositórios »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -102,43 +102,11 @@
       </p>
       <p>Desenvolvimento de agentes conversacionais no Copilot Studio integrados a fluxos de automação.</p>
       <p align="center">
-        <a href="#"><b>📂 Ver Repositório »</b></a>
+        <a href="https://github.com/Lorrayneegoncalves?tab=repositories"><b>📂 Ver Repositórios »</b></a>
       </p>
     </td>
   </tr>
 </table>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lorrayneegoncalves&theme=darkhub&row=1&column=6&margin-w=15&background=0d1117&border=00f0ff" alt="Conquistas" />
-
-<br/><br/>
-
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Lorrayneegoncalves&show_icons=true&theme=dark&hide_border=false&border_color=00f0ff&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9" alt="Estatísticas do GitHub" height="165"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorrayneegoncalves&layout=compact&theme=dark&hide_border=false&border_color=00f0ff&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" alt="Linguagens Mais Usadas" height="165"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lorrayneegoncalves&theme=dark&background=0D1117&border=00F0FF&stroke=00F0FF&alarm=00F0FF&fire=00F0FF&ring=00F0FF&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=00F0FF" alt="Sequência de Contribuições" width="90%"/>
-
-<br/><br/>
-
-### 🐍 Animação de Contribuições
-<img src="https://raw.githubusercontent.com/Lorrayneegoncalves/Lorrayneegoncalves/output/github-contribution-grid-snake.svg" alt="Jogo da Cobrinha" width="100%" />
-
-</div>
 
 ---
 
