@@ -36,7 +36,7 @@ Sou graduada em Análise e Desenvolvimento de Sistemas, pós-graduada em Ciênci
 
 </div>
 
-**Ferramentas de IA que uso:** Claude, no apoio a análise e desenvolvimento.
+**Ferramentas de IA que uso:** Claude, ChatGPT e Gemini, no apoio a análise e desenvolvimento.
 
 ---
 
