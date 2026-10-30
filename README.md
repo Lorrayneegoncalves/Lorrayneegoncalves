@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d3748,100:4a5568&height=110&section=header&text=Lorrayne%20Gon%C3%A7alves&fontSize=34&fontColor=f7fafc&desc=An%C3%A1lise%20de%20Dados%20%7C%20BI%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20IA&descSize=15&descColor=cbd5e0&descAlignY=72" width="100%" alt="Lorrayne Gonçalves, Análise de Dados, BI, Automação e IA"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:44566c,100:9db4c8&height=170&section=header&text=Lorrayne%20Gon%C3%A7alves&fontSize=36&fontColor=f8fafc&fontAlignY=40&desc=An%C3%A1lise%20de%20Dados%20%7C%20BI%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20IA&descSize=15&descColor=eef2f6&descAlignY=62" width="100%" alt="Lorrayne Gonçalves, Análise de Dados, BI, Automação e IA"/>
 
 </div>
 
-## Sobre mim
+## 👋 Sobre mim
 
 Sou graduada em Análise e Desenvolvimento de Sistemas, pós-graduada em Ciência de Dados e Big Data Analytics e curso Engenharia de Software. Trabalho com Power BI, SQL, Python e Power Platform, e tenho me aprofundado em IA e agentes no Copilot Studio.
 
 ---
 
-## Projetos
+## 📊 Projetos
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
@@ -20,35 +20,33 @@ Sou graduada em Análise e Desenvolvimento de Sistemas, pós-graduada em Ciênci
 
 ---
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 <div align="center">
 
 **Dados e BI**
 
-![Power BI](https://img.shields.io/badge/Power_BI-4a5568?style=flat-square)
-![DAX](https://img.shields.io/badge/DAX-4a5568?style=flat-square)
-![Power Query](https://img.shields.io/badge/Power_Query-4a5568?style=flat-square)
-![SQL Server](https://img.shields.io/badge/SQL_Server-4a5568?style=flat-square)
-![Python](https://img.shields.io/badge/Python-4a5568?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-4a5568?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-c9dff0?style=for-the-badge&logo=powerbi&logoColor=2d3748)
+![SQL Server](https://img.shields.io/badge/SQL_Server-c9dff0?style=for-the-badge&logo=microsoftsqlserver&logoColor=2d3748)
+![Python](https://img.shields.io/badge/Python-c9dff0?style=for-the-badge&logo=python&logoColor=2d3748)
+![Excel](https://img.shields.io/badge/Excel-c9dff0?style=for-the-badge&logo=microsoftexcel&logoColor=2d3748)
 
 **Automação**
 
-![Power Automate](https://img.shields.io/badge/Power_Automate-4a5568?style=flat-square)
-![Power Apps](https://img.shields.io/badge/Power_Apps-4a5568?style=flat-square)
-![SharePoint](https://img.shields.io/badge/SharePoint-4a5568?style=flat-square)
+![Power Automate](https://img.shields.io/badge/Power_Automate-d4e7d0?style=for-the-badge&logo=powerautomate&logoColor=2d3748)
+![Power Apps](https://img.shields.io/badge/Power_Apps-d4e7d0?style=for-the-badge&logo=powerapps&logoColor=2d3748)
+![SharePoint](https://img.shields.io/badge/SharePoint-d4e7d0?style=for-the-badge&logo=microsoftsharepoint&logoColor=2d3748)
 
-**IA**
+**Inteligência Artificial**
 
-![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-4a5568?style=flat-square)
-![Azure AI](https://img.shields.io/badge/Azure_AI-4a5568?style=flat-square)
+![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-ddd3ee?style=for-the-badge&logo=microsoft&logoColor=2d3748)
+![Azure AI](https://img.shields.io/badge/Azure_AI-ddd3ee?style=for-the-badge&logo=microsoftazure&logoColor=2d3748)
 
 </div>
 
 ---
 
-## Formação
+## 🎓 Formação
 
 - Pós-graduação em Ciência de Dados e Big Data Analytics
 - Tecnólogo em Análise e Desenvolvimento de Sistemas
@@ -57,7 +55,7 @@ Sou graduada em Análise e Desenvolvimento de Sistemas, pós-graduada em Ciênci
 
 ---
 
-## Em desenvolvimento
+## 🌱 Em desenvolvimento
 
 - Modelagem de dados e DAX no Power BI
 - Python para análise de dados e automação
@@ -65,6 +63,17 @@ Sou graduada em Análise e Desenvolvimento de Sistemas, pós-graduada em Ciênci
 
 ---
 
-## Contato
+## 📬 Contato
 
-[LinkedIn](https://linkedin.com/in/lorrayneegoncalves) · [E-mail](mailto:loh.goncalves03@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-c9dff0?style=for-the-badge&logo=linkedin&logoColor=2d3748)](https://linkedin.com/in/lorrayneegoncalves)
+[![E-mail](https://img.shields.io/badge/E--mail-f6dfc8?style=for-the-badge&logo=gmail&logoColor=2d3748)](mailto:loh.goncalves03@gmail.com)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:44566c,100:9db4c8&height=80&section=footer" width="100%" alt=""/>
+
+</div>
